@@ -32,7 +32,6 @@
 
 
 
-<a> name="ref"/>
-#### 3. References
-</a>
+
+#### <a> name="ref"/>3. References</a>
 [1] http://www.diffen.com/difference/Linux_vs_Unix
