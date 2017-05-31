@@ -2,13 +2,13 @@
 
 ## មាតិការ
 
-  1. សេចក្ដីណែនាំរួមអំពី UNIX​ និង LINUX
-​    1.1 UNIX
-    1.2 LINUX
+- 1. សេចក្ដីណែនាំរួមអំពី UNIX​ និង LINUX
+​  1.1 UNIX
+  1.2 LINUX
 
-  2. ភាពខុសគ្នារវាង UNIX និងLINUX
+- 2. ភាពខុសគ្នារវាង UNIX និងLINUX
 
-  [3. References](#ref)
+- [3. References](#ref)
 
 
 1. Giới thiệu chung về UNIX và LINIX
@@ -34,5 +34,4 @@
     Thuật ngữ "Linux" được sử dụng để chỉ nhân Linux, nhưng tên này được sử dụng một cách rộng rãi để miêu tả tổng thể một hệ điều hành tương tự Unix (còn được biết đến dưới tên GNU/Linux) được tạo ra bởi việc "đóng gói" nhân Linux cùng với các thư viện và công cụ GNU, cũng như là các bản phân phối Linux.
 
 #### <a name="ref">3. References</a>
-
 [1] http://www.diffen.com/difference/Linux_vs_Unix
