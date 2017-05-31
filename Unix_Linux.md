@@ -8,32 +8,31 @@
 
 2. ភាពខុសគ្នារវាង UNIX និងLINUX
 
+<br/>
+[3. References](#ref)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a> name="ref"/>
-3. References
+#### 3. References
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### [3. References](#ref)
 [1] http://www.diffen.com/difference/Linux_vs_Unix
