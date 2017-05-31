@@ -2,15 +2,13 @@
 
 ## មាតិការ
 
-1. សេចក្ដីណែនាំរួមអំពី UNIX​ និង LINUX
-​1.1 UNIX
-1.2 LINUX
+  1. សេចក្ដីណែនាំរួមអំពី UNIX​ និង LINUX
+​    1.1 UNIX
+    1.2 LINUX
 
-2. ភាពខុសគ្នារវាង UNIX និងLINUX
+  2. ភាពខុសគ្នារវាង UNIX និងLINUX
 
-<br/>
-
-[3. References](#ref)
+  [3. References](#ref)
 
 
 1. Giới thiệu chung về UNIX và LINIX
@@ -56,4 +54,5 @@
 
 
 #### <a> name="ref"/>3. References</a>
+
 [1] http://www.diffen.com/difference/Linux_vs_Unix
