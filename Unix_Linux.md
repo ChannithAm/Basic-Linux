@@ -11,9 +11,12 @@
 ### 1. សេចក្ដីណែនាំរួមអំពី UNIX​ និង LINUX
 
 #### 1.1 UNIX
-* Uinux គឺជាប្រពន្ធតិបត្តការកុំព្យូទ័រ ដែលមានមុខងារច្រើន​បានបង្កើតឡើងនៅឆ្នាំ ១៩៦៩ ដោយក្រុមបុគ្គលិកមួយនៅក្រុមហ៊ុន AT&T នៅបន្ទប់ពិសោធន៍ Bell Labs។
+* Uinux គឺជាប្រពន្ធ័ប្រតិបត្តិការកុំព្យូទ័រ ដែលមានមុខងារច្រើន (multitasking) ដែលអាចប្រើប្រាស់ច្រើនគ្នា (multi​user) បានបង្កើតឡើងនៅដើមឆ្នាំ ១៩៧០ នៅមន្ទីស្រាវជ្រាវ​ Bell Labs នៃក្រុមហ៊ុន AT&T UNIX​​។ Unix វាមានភាពងាយស្រួលក្នុងការផ្លាស់ប្ដូរ​
 * Unix system មានចំនុចគួអោយសកត់សំគាល់ថា ត្រូវបាន
 
 #### <a name="ref">3. References</a>
 [1] http://www.diffen.com/difference/Linux_vs_Unix
+
 [2] https://kb.iu.edu/d/agat
+
+[3] https://www.techworm.net/2016/11/difference-linux-unix-operating-systems.html
